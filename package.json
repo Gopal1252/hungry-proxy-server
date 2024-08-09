@@ -10,6 +10,7 @@
   "author": "Gopal Gupta",
   "license": "ISC",
   "dependencies": {
+    "buffer": "^6.0.3",
     "cors": "^2.8.5",
     "cross-fetch": "^4.0.0",
     "events": "^3.3.0",
