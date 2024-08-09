@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "build": "parcel build server.js --out-dir dis"
+    "build": "parcel build server.js"
   },
   "author": "Gopal Gupta",
   "license": "ISC",
